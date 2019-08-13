@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import sys
 
 import requests
@@ -40,5 +42,6 @@ def dl_im(url, save_path):
         b = bytearray(f)
 
     return b
+
 
 dl_im(url, "./")
