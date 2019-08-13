@@ -1,0 +1,7 @@
+README.md
+pan-img
+setup.py
+pan_img.egg-info/PKG-INFO
+pan_img.egg-info/SOURCES.txt
+pan_img.egg-info/dependency_links.txt
+pan_img.egg-info/top_level.txt
