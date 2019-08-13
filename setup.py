@@ -14,7 +14,7 @@ setuptools.setup(
     description="An image download library",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/ipandzic/dokr",
+    url="https://github.com/ipandzic/pan-img",
     packages=setuptools.find_packages(),
     classifiers=[
          "Programming Language :: Python :: 3",
